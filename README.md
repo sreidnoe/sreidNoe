@@ -1,4 +1,4 @@
-<div style= "background-image: url("https://giphy.com/gifs/binary-znFOMXuHVkV36qzdbJ"; background-size: cover;">
+<div style= "background-image: url("https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExbXN5Y2d6NjFibGNmeWVudWpvamtoOXdnaWJ6eWlleHpkem9vOXZ0NSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/4H3Ii5eLChYul9p7NL/giphy.gif; background-size: cover;">
 <h1 align="center">Hi 👋, I'm Stephanie</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sreidnoe&label=Profile%20views&color=0e75b6&style=flat" alt="sreidnoe" /> </p>
 </div>

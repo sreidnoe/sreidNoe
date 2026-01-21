@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Stephanie</h1>
-
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=sreidnoe&label=Profile%20views&color=0e75b6&style=flat" alt="sreidnoe" /> </p>
 
 <p align="left"> <a href="https://www.bloggif.com/tmp/e894ec3ea19b1bed7a1c6973a9668c11/text.gif?1768958046"><img src="https://github-profile-trophy.vercel.app/?username=sreidnoe" alt="sreidnoe" /></a> </p>
 

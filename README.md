@@ -1,6 +1,7 @@
+<div background-image: url(https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExZHpnMTFiZGRpOGplZGd4cDJ5dGx0bXZ3eTFmMmIza2pmZHlmNG03bCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/QpVUMRUJGokfqXyfa1/giphy.gif)>
 <h1 align="center">Hi 👋, I'm Stephanie</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sreidnoe&label=Profile%20views&color=0e75b6&style=flat" alt="sreidnoe" /> </p>
-
+</div>
 
 
 - 🔭 I’m currently working on **Alex the Analyst's Data Analytics Bootcamp**

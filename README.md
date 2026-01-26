@@ -4,7 +4,7 @@
 
 
 
-- 🔭 I’m currently working on **Alex the Analyst's Data Analytics Bootcamp**
+- 🔭 I’m currently working on **Portfoilio Projects**
 
 - 🌱 I’m currently learning **MS Data Analytics Decision Process Engineering at WGU**
 
